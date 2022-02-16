@@ -1,4 +1,7 @@
 {
+  "Username": "tester",
+  "Password": "TEST123",
+  "Token": "1234qwerasdfzxcv",
   "Toolchain": {
     "Twister": {
       "Color": "red",
