@@ -46598,7 +46598,7 @@ hn(a){return this.MM(a)},
 MM(a){var s=0,r=A.a7(t.z),q=this,p,o,n,m,l,k
 var $async$hn=A.a8(function(b,c){if(b===1)return A.a4(c,r)
 while(true)switch(s){case 0:o=t.N
-n=A.aJ(["Accept","application/json"],o,o)
+n=A.aJ(["Accept","application/json","Access-Control-Allow-Origin","*"],o,o)
 m=J.cO(q.d.h(0,"Username"))
 l=J.cO(q.d.h(0,"Password"))
 o=m+":"+l
